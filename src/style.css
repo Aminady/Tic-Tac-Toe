@@ -4,7 +4,14 @@
 
 body {
     /* By Symode09 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2064271 */
-    background: url(./Tic_tac_toe.svg) center;
+    background: black url(./Tic_tac_toe.svg) center;
+}
+
+.presentation {
+    text-align: center;
+    /* width: 50%; */
+    font-size: 24px;
+    color: white;
 }
 
 .players {
